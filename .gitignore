@@ -12,4 +12,4 @@
 *.zip
 *.gz
 *.svg
-
+*.idea**

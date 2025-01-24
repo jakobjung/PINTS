@@ -13,3 +13,8 @@
 *.gz
 *.svg
 *.idea**
+./data/jakob**
+*.fasta
+*.csv
+*.tsv
+*.bed
